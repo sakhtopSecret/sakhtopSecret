@@ -6,7 +6,7 @@
                       kulaginsergey09@gmail.com
                       
 - My projects: 
-         [Wordpess, frontend and plugins repair](https://cdut.yuzhno-sakh.ru){:target="_blank" rel="noopener"}
+         [Wordpess, frontend and plugins repair](https://cdut.yuzhno-sakh.ru)
 
 <!---
 sakhtopSecret/sakhtopSecret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
